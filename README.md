@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ginger Banegas
+
+SaaS implementation professional with 9+ years delivering API-driven enterprise solutions.
+Targeting Director of Implementation roles in AI/SaaS.
+
+Currently building: full-stack TypeScript apps with React, Supabase, and Capacitor.
+
+📍 Greenville, TX
+🔗 [LinkedIn](https://www.linkedin.com/in/gingerbanegas/)
